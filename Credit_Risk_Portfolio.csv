@@ -1,0 +1,201 @@
+Company,Sector,Size,Loan_Amount,Rating,PD,LGD,EAD,Expected_Loss,DPD,DPD_Bucket
+360 ONE WAM Ltd.,Financial Services,Small Cap,96,B,10%,68%,79.68,5.41824,5,1 to30
+AU Small Finance Bank Ltd.,Financial Services,Small Cap,93,BBB,3%,36%,90.21,0.81189,0,Current
+Aadhar Housing Finance Ltd.,Financial Services,Small Cap,40,BBB,3%,58%,36.8,0.5336,25,1 to30
+Aavas Financiers Ltd.,Financial Services,Small Cap,75,BBB,3%,53%,65.25,0.8645625,99,90+
+Aditya Birla Capital Ltd.,Financial Services,Small Cap,58,CCC,20%,30%,48.14,2.8884,163,90+
+Aditya Birla Sun Life AMC Ltd.,Financial Services,Small Cap,95,BB,5%,51%,70.3,1.79265,30,1 to30
+BSE Ltd.,Financial Services,Small Cap,62,B,10%,37%,49.6,1.8352,30,1 to30
+Bajaj Finance Ltd.,Financial Services,Large Cap,921,AAA,0%,63%,856.53,1.0792278,39,31 to 60
+Bajaj Finserv Ltd.,Financial Services,Large Cap,890,AAA,0%,44%,631.9,0.556072,46,31 to 60
+Bajaj Holdings & Investment Ltd.,Financial Services,Mid Cap,268,B,10%,55%,238.52,13.1186,122,90+
+Bajaj Housing Finance Ltd.,Financial Services,Small Cap,22,BBB,3%,38%,16.94,0.16093,35,31 to 60
+Bandhan Bank Ltd.,Financial Services,Small Cap,23,B,10%,43%,17.94,0.77142,73,61 to 90
+Bank of India,Financial Services,Small Cap,51,BBB,3%,68%,46.41,0.78897,61,61 to 90
+Bank of Maharashtra,Financial Services,Small Cap,55,BBB,3%,36%,48.95,0.44055,49,31 to 60
+Billionbrains Garage Ventures Ltd.,Financial Services,Small Cap,99,BBB,3%,62%,87.12,1.35036,23,1 to30
+CRISIL Ltd.,Financial Services,Small Cap,48,CCC,20%,48%,35.52,3.40992,0,Current
+Can Fin Homes Ltd.,Financial Services,Small Cap,64,BBB,3%,55%,53.76,0.7392,79,61 to 90
+Canara Bank,Financial Services,Mid Cap,129,A,1%,40%,123.84,0.49536,48,31 to 60
+Canara HSBC Life Insurance Company Ltd.,Financial Services,Small Cap,74,BB,5%,33%,73.26,1.20879,0,Current
+City Union Bank Ltd.,Financial Services,Small Cap,97,BBB,3%,32%,94.09,0.75272,25,1 to30
+Computer Age Management Services Ltd.,Financial Services,Small Cap,61,CCC,20%,34%,37.82,2.57176,11,1 to30
+CreditAccess Grameen Ltd.,Financial Services,Small Cap,40,BB,5%,32%,26.8,0.4288,6,1 to30
+Federal Bank Ltd.,Financial Services,Small Cap,99,BB,5%,32%,91.08,1.45728,50,31 to 60
+Five-Star Business Finance Ltd.,Financial Services,Small Cap,71,B,10%,69%,46.86,3.23334,123,90+
+General Insurance Corporation of India,Financial Services,Small Cap,23,B,10%,51%,22.77,1.16127,108,90+
+Go Digit General Insurance Ltd.,Financial Services,Small Cap,23,BBB,3%,67%,16.33,0.2735275,19,1 to30
+HDB Financial Services Ltd.,Financial Services,Small Cap,91,BB,5%,30%,64.61,0.96915,115,90+
+HDFC Asset Management Company Ltd.,Financial Services,Mid Cap,264,BBB,3%,37%,163.68,1.51404,124,90+
+Housing & Urban Development Corporation Ltd.,Financial Services,Small Cap,54,B,10%,47%,38.88,1.82736,37,31 to 60
+ICICI Bank Ltd.,Financial Services,Large Cap,928,AA,1%,68%,760.96,2.587264,74,61 to 90
+Indian Energy Exchange Ltd.,Financial Services,Small Cap,87,B,10%,34%,70.47,2.39598,61,61 to 90
+Indian Overseas Bank,Financial Services,Small Cap,75,BBB,3%,59%,64.5,0.951375,29,1 to30
+Indian Railway Finance Corporation Ltd.,Financial Services,Mid Cap,160,B,10%,64%,116.8,7.4752,6,1 to30
+Mahindra & Mahindra Financial Services Ltd.,Financial Services,Small Cap,71,BB,5%,56%,63.9,1.7892,63,61 to 90
+Manappuram Finance Ltd.,Financial Services,Small Cap,62,CCC,20%,57%,52.7,6.0078,68,61 to 90
+Anupam Rasayan India Ltd.,Chemicals,Small Cap,42,B,10%,66%,30.24,1.99584,128,90+
+Atul Ltd.,Chemicals,Small Cap,47,B,10%,69%,29.14,2.01066,5,1 to30
+Bayer Cropscience Ltd.,Chemicals,Small Cap,46,CCC,20%,44%,44.16,3.88608,3,1 to30
+Chambal Fertilizers & Chemicals Ltd.,Chemicals,Small Cap,65,BBB,3%,45%,61.75,0.6946875,0,Current
+Clean Science and Technology Ltd.,Chemicals,Small Cap,73,CCC,20%,38%,62.78,4.77128,68,61 to 90
+Coromandel International Ltd.,Chemicals,Small Cap,38,BBB,3%,43%,23.94,0.257355,107,90+
+Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,Small Cap,20,BBB,3%,70%,18,0.315,50,31 to 60
+Deepak Nitrite Ltd.,Chemicals,Small Cap,59,BB,5%,36%,56.64,1.01952,76,61 to 90
+Fertilisers and Chemicals Travancore Ltd.,Chemicals,Small Cap,37,B,10%,30%,31.82,0.9546,76,61 to 90
+Gujarat Fluorochemicals Ltd.,Chemicals,Small Cap,28,CCC,20%,35%,20.44,1.4308,0,Current
+Himadri Speciality Chemical Ltd.,Chemicals,Small Cap,44,BBB,3%,68%,36.96,0.62832,49,31 to 60
+Siemens Ltd.,Capital Goods,Mid Cap,109,B,10%,62%,93.74,5.81188,0,Current
+Supreme Industries Ltd.,Capital Goods,Small Cap,99,BB,5%,46%,79.2,1.8216,0,Current
+Suzlon Energy Ltd.,Capital Goods,Small Cap,69,CCC,20%,68%,52.44,7.13184,26,1 to30
+Syrma SGS Technology Ltd.,Capital Goods,Small Cap,20,BB,5%,66%,15.4,0.5082,69,61 to 90
+Tata Motors Ltd.,Capital Goods,Mid Cap,218,BBB,3%,33%,156.96,1.29492,54,31 to 60
+Tega Industries Ltd.,Capital Goods,Small Cap,29,BBB,3%,65%,23.78,0.386425,60,31 to 60
+Balkrishna Industries Ltd.,Automobile and Auto Components,Small Cap,82,BB,5%,34%,65.6,1.1152,32,31 to 60
+Belrise Industries Ltd.,Automobile and Auto Components,Small Cap,89,CCC,20%,33%,88.11,5.81526,39,31 to 60
+Bharat Forge Ltd.,Automobile and Auto Components,Small Cap,84,CCC,20%,59%,65.52,7.73136,0,Current
+Bosch Ltd.,Automobile and Auto Components,Mid Cap,127,BBB,3%,70%,77.47,1.355725,0,Current
+CIE Automotive India Ltd.,Automobile and Auto Components,Small Cap,72,BB,5%,42%,43.2,0.9072,4,1 to30
+Ceat Ltd.,Automobile and Auto Components,Small Cap,93,CCC,20%,50%,58.59,5.859,0,Current
+Craftsman Automation Ltd.,Automobile and Auto Components,Small Cap,74,BB,5%,57%,44.4,1.2654,61,61 to 90
+Astral Ltd.,Capital Goods,Small Cap,77,B,10%,32%,52.36,1.67552,158,90+
+BEML Ltd.,Capital Goods,Small Cap,33,CCC,20%,46%,20.46,1.88232,59,31 to 60
+Bharat Dynamics Ltd.,Capital Goods,Small Cap,76,BBB,3%,45%,57.76,0.6498,28,1 to30
+Bharat Electronics Ltd.,Capital Goods,Large Cap,343,AAA,0%,37%,312.13,0.2309762,85,61 to 90
+Bharat Heavy Electricals Ltd.,Capital Goods,Small Cap,79,BB,5%,57%,78.21,2.228985,62,61 to 90
+CG Power and Industrial Solutions Ltd.,Capital Goods,Mid Cap,162,B,10%,44%,137.7,6.0588,59,31 to 60
+Carborundum Universal Ltd.,Capital Goods,Small Cap,73,BB,5%,52%,68.62,1.78412,24,1 to30
+Cochin Shipyard Ltd.,Capital Goods,Small Cap,38,BBB,3%,43%,29.26,0.314545,151,90+
+Cummins India Ltd.,Capital Goods,Mid Cap,182,BBB,3%,61%,167.44,2.55346,85,61 to 90
+Inox Wind Ltd.,Capital Goods,Small Cap,74,B,10%,53%,46.62,2.47086,156,90+
+Jindal Saw Ltd.,Capital Goods,Small Cap,58,B,10%,36%,49.3,1.7748,126,90+
+Jupiter Wagons Ltd.,Capital Goods,Small Cap,100,BBB,3%,50%,78,0.975,0,Current
+Jyoti CNC Automation Ltd.,Capital Goods,Small Cap,59,CCC,20%,31%,47.79,2.96298,0,Current
+KEI Industries Ltd.,Capital Goods,Small Cap,43,BBB,3%,66%,32.68,0.53922,18,1 to30
+Kaynes Technology India Ltd.,Capital Goods,Small Cap,47,B,10%,64%,35.25,2.256,0,Current
+Kirloskar Oil Eng Ltd.,Capital Goods,Small Cap,79,BBB,3%,30%,67.15,0.503625,79,61 to 90
+Bikaji Foods International Ltd.,Fast Moving Consumer Goods,Small Cap,32,CCC,20%,60%,21.12,2.5344,36,31 to 60
+Bombay Burmah Trading Corporation Ltd.,Fast Moving Consumer Goods,Small Cap,83,BB,5%,64%,63.91,2.04512,33,31 to 60
+Britannia Industries Ltd.,Fast Moving Consumer Goods,Mid Cap,241,BBB,3%,44%,151.83,1.67013,82,61 to 90
+CCL Products (I) Ltd.,Fast Moving Consumer Goods,Small Cap,20,BB,5%,61%,15.2,0.4636,150,90+
+Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,Small Cap,80,B,10%,44%,63.2,2.7808,12,1 to30
+DOMS Industries Ltd.,Fast Moving Consumer Goods,Small Cap,27,CCC,20%,33%,19.44,1.28304,40,31 to 60
+Dabur India Ltd.,Fast Moving Consumer Goods,Small Cap,39,B,10%,59%,28.86,1.70274,0,Current
+E.I.D. Parry (India) Ltd.,Fast Moving Consumer Goods,Small Cap,77,B,10%,69%,47.74,3.29406,84,61 to 90
+Emami Ltd.,Fast Moving Consumer Goods,Small Cap,21,CCC,20%,47%,16.59,1.55946,12,1 to30
+Gillette India Ltd.,Fast Moving Consumer Goods,Small Cap,60,CCC,20%,69%,51,7.038,42,31 to 60
+Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,Small Cap,98,BBB,3%,63%,73.5,1.157625,117,90+
+Honasa Consumer Ltd.,Fast Moving Consumer Goods,Small Cap,81,CCC,20%,66%,77.76,10.26432,47,31 to 60
+ITC Ltd.,Fast Moving Consumer Goods,Large Cap,593,AAA,0%,53%,539.63,0.5720078,30,1 to30
+LT Foods Ltd.,Fast Moving Consumer Goods,Small Cap,47,BB,5%,44%,33.37,0.73414,0,Current
+Marico Ltd.,Fast Moving Consumer Goods,Small Cap,88,BB,5%,61%,62.48,1.90564,88,61 to 90
+Nestle India Ltd.,Fast Moving Consumer Goods,Large Cap,300,AAA,0%,40%,291,0.2328,17,1 to30
+Patanjali Foods Ltd.,Fast Moving Consumer Goods,Small Cap,83,CCC,20%,52%,68.06,7.07824,87,61 to 90
+Radico Khaitan Ltd,Fast Moving Consumer Goods,Small Cap,25,BB,5%,47%,16.25,0.381875,93,90+
+Tata Consumer Products Ltd.,Fast Moving Consumer Goods,Large Cap,794,AA,1%,38%,500.22,0.950418,0,Current
+United Breweries Ltd.,Fast Moving Consumer Goods,Small Cap,27,BB,5%,63%,16.47,0.518805,24,1 to30
+United Spirits Ltd.,Fast Moving Consumer Goods,Mid Cap,290,A,1%,69%,211.7,1.46073,59,31 to 60
+Varun Beverages Ltd.,Fast Moving Consumer Goods,Mid Cap,294,A,1%,42%,273.42,1.148364,123,90+
+Abbott India Ltd.,Healthcare,Small Cap,84,B,10%,58%,73.08,4.23864,0,Current
+Acutaas Chemicals Ltd.,Healthcare,Small Cap,29,CCC,20%,40%,17.98,1.4384,0,Current
+Ajanta Pharmaceuticals Ltd.,Healthcare,Small Cap,47,BB,5%,59%,37.13,1.095335,23,1 to30
+Alkem Laboratories Ltd.,Healthcare,Small Cap,35,BB,5%,35%,31.85,0.557375,0,Current
+Anthem Biosciences Ltd.,Healthcare,Small Cap,94,BBB,3%,55%,57.34,0.788425,97,90+
+J.B. Chemicals & Pharmaceuticals Ltd.,Healthcare,Small Cap,95,B,10%,69%,86.45,5.96505,6,1 to30
+Jubilant Pharmova Ltd.,Healthcare,Small Cap,36,CCC,20%,43%,23.4,2.0124,0,Current
+Krishna Institute of Medical Sciences Ltd.,Healthcare,Small Cap,68,CCC,20%,57%,44.88,5.11632,0,Current
+Laurus Labs Ltd.,Healthcare,Small Cap,50,CCC,20%,53%,40.5,4.293,18,1 to30
+Lupin Ltd.,Healthcare,Small Cap,26,CCC,20%,64%,16.38,2.09664,154,90+
+C.E. Info Systems Ltd.,Information Technology,Small Cap,78,BBB,3%,63%,75.66,1.191645,122,90+
+Coforge Ltd.,Information Technology,Small Cap,91,B,10%,67%,82.81,5.54827,80,61 to 90
+Cyient Ltd.,Information Technology,Small Cap,37,BBB,3%,34%,34.04,0.28934,59,31 to 60
+HCL Technologies Ltd.,Information Technology,Large Cap,700,AAA,0%,39%,511,0.39858,70,61 to 90
+Hexaware Technologies Ltd.,Information Technology,Small Cap,35,BBB,3%,49%,22.05,0.2701125,15,1 to30
+Infosys Ltd.,Information Technology,Large Cap,494,AAA,0%,33%,400.14,0.2640924,33,31 to 60
+Intellect Design Arena Ltd.,Information Technology,Small Cap,86,CCC,20%,37%,65.36,4.83664,158,90+
+Inventurus Knowledge Solutions Ltd.,Information Technology,Small Cap,99,BB,5%,63%,82.17,2.588355,46,31 to 60
+KPIT Technologies Ltd.,Information Technology,Small Cap,61,B,10%,56%,37.21,2.08376,39,31 to 60
+L&T Technology Services Ltd.,Information Technology,Small Cap,97,BB,5%,48%,58.2,1.3968,44,31 to 60
+LTM Ltd.,Information Technology,Mid Cap,146,B,10%,57%,118.26,6.74082,0,Current
+Persistent Systems Ltd.,Information Technology,Small Cap,55,BBB,3%,30%,51.7,0.38775,168,90+
+Sagility Ltd.,Information Technology,Small Cap,48,BBB,3%,62%,38.4,0.5952,144,90+
+Sonata Software Ltd.,Information Technology,Small Cap,41,B,10%,52%,40.18,2.08936,0,Current
+Tata Consultancy Services Ltd.,Information Technology,Large Cap,462,A,1%,69%,429.66,2.964654,140,90+
+Tata Elxsi Ltd.,Information Technology,Small Cap,23,BB,5%,35%,15.18,0.26565,0,Current
+PVR INOX Ltd.,Media Entertainment & Publication,Small Cap,81,BBB,3%,32%,51.84,0.41472,34,31 to 60
+Saregama India Ltd,Media Entertainment & Publication,Small Cap,75,BBB,3%,69%,60,1.035,0,Current
+Adani Enterprises Ltd.,Metals & Mining,Large Cap,470,AA,1%,31%,291.4,0.45167,34,31 to 60
+Gravita India Ltd.,Metals & Mining,Small Cap,51,BBB,3%,57%,50.49,0.7194825,24,1 to30
+Gujarat Mineral Development Corporation Ltd.,Metals & Mining,Small Cap,96,B,10%,38%,72,2.736,78,61 to 90
+Hindalco Industries Ltd.,Metals & Mining,Large Cap,765,A,1%,51%,481.95,2.457945,104,90+
+Hindustan Copper Ltd.,Metals & Mining,Small Cap,91,BBB,3%,37%,60.06,0.555555,52,31 to 60
+Hindustan Zinc Ltd.,Metals & Mining,Mid Cap,232,B,10%,55%,157.76,8.6768,0,Current
+JSW Steel Ltd.,Metals & Mining,Large Cap,724,AA,1%,39%,600.92,1.171794,85,61 to 90
+Jain Resource Recycling Ltd.,Metals & Mining,Small Cap,74,BBB,3%,69%,74,1.2765,16,1 to30
+Jindal Stainless Ltd.,Metals & Mining,Small Cap,72,CCC,20%,32%,61.92,3.96288,104,90+
+Jindal Steel Ltd.,Metals & Mining,Mid Cap,162,BBB,3%,36%,140.94,1.26846,60,31 to 60
+Lloyds Metals And Energy Ltd.,Metals & Mining,Small Cap,83,CCC,20%,45%,76.36,6.8724,47,31 to 60
+Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,Small Cap,89,CCC,20%,36%,63.19,4.54968,19,1 to30
+Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,Small Cap,76,BB,5%,41%,72.2,1.4801,81,61 to 90
+Aegis Vopak Terminals Ltd.,Oil Gas & Consumable Fuels,Small Cap,85,BB,5%,39%,73.1,1.42545,31,31 to 60
+Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Mid Cap,111,BBB,3%,36%,88.8,0.7992,6,1 to30
+Castrol India Ltd.,Oil Gas & Consumable Fuels,Small Cap,86,BB,5%,30%,54.18,0.8127,77,61 to 90
+Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Small Cap,87,B,10%,46%,58.29,2.68134,0,Current
+Coal India Ltd.,Oil Gas & Consumable Fuels,Large Cap,318,A,1%,40%,213.06,0.85224,0,Current
+GAIL (India) Ltd.,Oil Gas & Consumable Fuels,Mid Cap,238,B,10%,59%,235.62,13.90158,15,1 to30
+Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Small Cap,87,BB,5%,64%,81.78,2.61696,76,61 to 90
+Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,Mid Cap,139,A,1%,54%,115.37,0.622998,120,90+
+Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,Small Cap,82,CCC,20%,49%,58.22,5.70556,21,1 to30
+Reliance Industries Ltd.,Oil Gas & Consumable Fuels,Large Cap,382,A,1%,59%,252.12,1.487508,0,Current
+Vedanta Oil and Gas Ltd.,Oil Gas & Consumable Fuels,Mid Cap,172,B,10%,49%,168.56,8.25944,76,61 to 90
+ACME Solar Holdings Ltd.,Power,Small Cap,58,B,10%,50%,52.78,2.639,0,Current
+Adani Energy Solutions Ltd.,Power,Mid Cap,274,BBB,3%,58%,167.14,2.42353,61,61 to 90
+JSW Energy Ltd.,Power,Small Cap,35,BB,5%,35%,24.15,0.422625,135,90+
+Jaiprakash Power Ventures Ltd.,Power,Small Cap,63,B,10%,66%,42.21,2.78586,25,1 to30
+NHPC Ltd.,Power,Small Cap,48,BBB,3%,36%,48,0.432,58,31 to 60
+NLC India Ltd.,Power,Small Cap,32,B,10%,32%,21.76,0.69632,43,31 to 60
+NTPC Green Energy Ltd.,Power,Small Cap,56,B,10%,40%,36.4,1.456,0,Current
+NTPC Ltd.,Power,Large Cap,534,AAA,0%,43%,448.56,0.3857616,17,1 to30
+Nava Ltd.,Power,Small Cap,34,CCC,20%,67%,30.6,4.1004,34,31 to 60
+Power Grid Corporation of India Ltd.,Power,Large Cap,347,AA,1%,41%,222.08,0.455264,0,Current
+Reliance Power Ltd.,Power,Small Cap,63,B,10%,54%,40.95,2.2113,0,Current
+Bharti Airtel Ltd.,Telecommunication,Large Cap,503,AAA,0%,66%,347.07,0.4581324,54,31 to 60
+Bharti Hexacom Ltd.,Telecommunication,Small Cap,74,BBB,3%,46%,55.5,0.63825,60,31 to 60
+HFCL Ltd.,Telecommunication,Small Cap,23,CCC,20%,64%,13.8,1.7664,73,61 to 90
+ITI Ltd.,Telecommunication,Small Cap,64,BBB,3%,37%,50.56,0.46768,80,61 to 90
+Indus Towers Ltd.,Telecommunication,Small Cap,65,CCC,20%,32%,63.05,4.0352,0,Current
+Railtel Corporation Of India Ltd.,Telecommunication,Small Cap,31,CCC,20%,31%,31,1.922,47,31 to 60
+Tata Communications Ltd.,Telecommunication,Small Cap,63,B,10%,64%,60.48,3.87072,49,31 to 60
+Tata Teleservices (Maharashtra) Ltd.,Telecommunication,Small Cap,66,BB,5%,38%,42.9,0.8151,44,31 to 60
+Tejas Networks Ltd.,Telecommunication,Small Cap,25,CCC,20%,53%,17.75,1.8815,70,61 to 90
+Vodafone Idea Ltd.,Telecommunication,Small Cap,75,B,10%,37%,71.25,2.63625,38,31 to 60
+K.P.R. Mill Ltd.,Textiles,Small Cap,93,BB,5%,58%,88.35,2.56215,52,31 to 60
+Page Industries Ltd.,Textiles,Small Cap,20,CCC,20%,40%,19.6,1.568,76,61 to 90
+Trident Ltd.,Textiles,Small Cap,34,BBB,3%,68%,28.22,0.47974,78,61 to 90
+Vardhman Textiles Ltd.,Textiles,Small Cap,87,B,10%,64%,60.03,3.84192,2,1 to30
+Welspun Living Ltd.,Textiles,Small Cap,57,CCC,20%,54%,50.73,5.47884,61,61 to 90
+Aditya Birla Real Estate Ltd.,Realty,Small Cap,39,CCC,20%,50%,28.86,2.886,71,61 to 90
+Anant Raj Ltd.,Realty,Small Cap,65,BBB,3%,37%,65,0.60125,0,Current
+Brigade Enterprises Ltd.,Realty,Small Cap,71,BBB,3%,67%,50.41,0.8443675,26,1 to30
+DLF Ltd.,Realty,Mid Cap,129,B,10%,53%,96.75,5.12775,61,61 to 90
+Godrej Properties Ltd.,Realty,Small Cap,47,CCC,20%,53%,41.36,4.38416,28,1 to30
+Lodha Developers Ltd.,Realty,Mid Cap,231,A,1%,62%,189.42,1.174404,40,31 to 60
+Oberoi Realty Ltd.,Realty,Small Cap,66,BB,5%,49%,62.7,1.53615,0,Current
+Phoenix Mills Ltd.,Realty,Small Cap,81,BB,5%,55%,60.75,1.670625,68,61 to 90
+Prestige Estates Projects Ltd.,Realty,Small Cap,87,CCC,20%,33%,73.95,4.8807,30,1 to30
+Signatureglobal (India) Ltd.,Realty,Small Cap,42,CCC,20%,68%,39.48,5.36928,2,1 to30
+Sobha Ltd.,Realty,Small Cap,88,BBB,3%,45%,61.6,0.693,68,61 to 90
+Adani Ports and Special Economic Zone Ltd.,Services,Large Cap,773,AA,1%,43%,649.32,1.396038,8,1 to30
+Blue Dart Express Ltd.,Services,Small Cap,59,BBB,3%,36%,38.94,0.35046,51,31 to 60
+Container Corporation of India Ltd.,Services,Small Cap,47,BB,5%,49%,38.07,0.932715,0,Current
+Delhivery Ltd.,Services,Small Cap,47,B,10%,67%,34.31,2.29877,0,Current
+Firstsource Solutions Ltd.,Services,Small Cap,69,BBB,3%,34%,66.93,0.568905,0,Current
+GMR Airports Ltd.,Services,Small Cap,46,B,10%,64%,28.52,1.82528,0,Current
+Great Eastern Shipping Co. Ltd.,Services,Small Cap,79,B,10%,63%,64.78,4.08114,142,90+
+InterGlobe Aviation Ltd.,Services,Large Cap,434,AA,1%,46%,277.76,0.638848,14,1 to30
+International Gemological Institute Ltd.,Services,Small Cap,89,CCC,20%,70%,57.85,8.099,4,1 to30
+JSW Infrastructure Ltd.,Services,Small Cap,23,BB,5%,64%,22.54,0.72128,0,Current
+MMTC Ltd.,Services,Small Cap,100,BB,5%,33%,66,1.089,0,Current
+Redington Ltd.,Services,Small Cap,20,CCC,20%,53%,15.6,1.6536,14,1 to30
+Shipping Corporation of India Ltd.,Services,Small Cap,63,BBB,3%,66%,58.59,0.966735,0,Current
+eClerx Services Ltd.,Services,Small Cap,48,BBB,3%,55%,37.92,0.5214,106,90+
