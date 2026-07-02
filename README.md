@@ -196,3 +196,33 @@ Business Insights
 - Delinquent borrowers exhibit higher portfolio risk.
 - Sector-level analysis helps identify concentrated risk exposures.
 - Interactive filters enable detailed borrower-level investigation.
+
+---
+
+## Portfolio Overview
+
+![Overview](Dashboard%20Images/Overview.png)
+
+---
+
+## Sector Analysis
+
+![Sector](Dashboard%20Images/Sector.png)
+
+---
+
+## Rating Analysis
+
+![Rating](Dashboard%20Images/Rating.png)
+
+---
+
+## Delinquency Analysis
+
+![Delinquency](Dashboard%20Images/Delinquency.png)
+
+---
+
+## Borrower Details
+
+![Borrower](Dashboard%20Images/Borrower.png)
